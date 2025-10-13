@@ -1,0 +1,10 @@
+openai
+pillow
+requests
+matplotlib
+scikit-learn
+reportlab
+streamlit
+diffusers        # for Hugging Face Stable Diffusion pipeline
+torch            # backend for diffusers
+transformers
